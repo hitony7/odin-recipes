@@ -1,4 +1,6 @@
 # Odin project 
 ## Web Dev Intro
-Basic HTML webpage that has recpices of food  
-https://hitony7.github.io/odin-recipes
+Super Basic HTML webpage that has recpices of food  
+
+
+Website Link:https://hitony7.github.io/odin-recipes
