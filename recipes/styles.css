@@ -1,5 +1,9 @@
 /* styles.css */
 
+@font-face {
+  font-family: 'Robo'; /*a name to be used later*/
+  src: url('"https://fonts.googleapis.com/css?family=Roboto+Mono"'); /*URL to font*/
+}
 
 #background {
   background-color: #F5F5DC;
