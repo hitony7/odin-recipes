@@ -1,9 +1,5 @@
 /* styles.css */
 
-@font-face {
-  font-family: 'Robo'; /*a name to be used later*/
-  src: url('"https://fonts.googleapis.com/css?family=Roboto+Mono"'); /*URL to font*/
-}
 
 #background {
   background-color: #F5F5DC;
@@ -31,4 +27,11 @@ div.container {
 ul.myUL {
   display: inline-block;
   text-align: left;
+}
+.fancyfont {
+  font-family: 'Sofia', cursive;
+}
+
+.fontnormal, h4, p ,li ,ul {
+  font-family: 'Roboto', sans-serif;
 }
