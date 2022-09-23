@@ -12,6 +12,7 @@
   margin-left: auto;
   margin-right: auto;
   width: 50%;
+  margin-bottom: 50px;
 }
 
 .center { 
@@ -34,4 +35,24 @@ ul.myUL {
 
 .fontnormal, h4, p ,li ,ul {
   font-family: 'Roboto', sans-serif;
+}
+
+#contents{
+  margin-right: 15% ;
+  margin-left: 15% ;
+}
+header {
+  position: fixed;
+  width: 100px;
+}
+
+header:hover {
+  opacity: 0.5;
+}
+
+#arrow { 
+  height: 10%;
+  width: 100px;
+  margin-left: auto;
+  margin-right: auto;
 }
